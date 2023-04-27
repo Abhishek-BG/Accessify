@@ -1,6 +1,9 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+# Ignore node_modules and its child directories
+node_modules/
 # dependencies
+
 /node_modules
 /client/node_modules
 /server/node_modules
